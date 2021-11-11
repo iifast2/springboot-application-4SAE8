@@ -54,6 +54,10 @@ https://i.imgur.com/fJt96cd.png
 
 
 
+Generate getters & setters for : client.java , stock.java , facture.java
+
+
+SS : https://i.imgur.com/ytq2uOY.png
 
 
 
