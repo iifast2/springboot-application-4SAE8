@@ -59,7 +59,7 @@ Generate getters & setters for : client.java , stock.java , facture.java
 
 SS : https://i.imgur.com/ytq2uOY.png
 
-Install the Lombok : 
+Install the Lombok ( after you install it , re-open STS  and do : maven > upadte project )  : 
 
 
 https://i.imgur.com/MwHg7Bj.png
@@ -67,5 +67,12 @@ https://i.imgur.com/MwHg7Bj.png
 
 https://i.imgur.com/isYlPMO.png
 
+
+
+
+### TEST on postman : 
+
+GET :  
+http://localhost:8080/api/clients/
 
 
