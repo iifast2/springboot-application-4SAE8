@@ -9,7 +9,13 @@
 
 file : C:\Users\medaminebt\Downloads\project-spring-boot\project-spring-boot\src\main\resources\application.properties
 
-spring_log_file.log
+
+create empty file : 
+
+
+C:/Users/medaminebt/Downloads/project-spring-boot/project-spring-boot/spring_logs/spring_log_file.log
+
+
 
 
 
