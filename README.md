@@ -59,5 +59,13 @@ Generate getters & setters for : client.java , stock.java , facture.java
 
 SS : https://i.imgur.com/ytq2uOY.png
 
+Install the Lombok : 
+
+
+https://i.imgur.com/MwHg7Bj.png
+
+
+https://i.imgur.com/isYlPMO.png
+
 
 
