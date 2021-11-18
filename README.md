@@ -47,8 +47,13 @@ use Wampp server to create DB ( data base name :  springdb )
 
 
 
-SS DB : 
-https://i.imgur.com/fJt96cd.png
+SS of DB    http://localhost/phpmyadmin : 
+![SS of DB http://localhost/phpmyadmin ](https://i.imgur.com/fJt96cd.png)
+
+
+
+
+
 
 
 
@@ -57,15 +62,21 @@ https://i.imgur.com/fJt96cd.png
 Generate getters & setters for : client.java , stock.java , facture.java
 
 
-SS : https://i.imgur.com/ytq2uOY.png
+
+
+SS : ![SS1](https://i.imgur.com/ytq2uOY.png)
+ 
+
 
 Install the Lombok ( after you install it , re-open STS  and do : maven > upadte project )  : 
 
 
-https://i.imgur.com/MwHg7Bj.png
+![SS install lombok](https://i.imgur.com/MwHg7Bj.png)
 
 
-https://i.imgur.com/isYlPMO.png
+
+![SS install lombok](https://i.imgur.com/isYlPMO.png)
+
 
 
 
